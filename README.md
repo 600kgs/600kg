@@ -1,3 +1,2 @@
 # 600kg
-a shopping website
-url: https://600kgs.github.io/600kg/
+A shopping website. the url: https://600kgs.github.io/600kg/
